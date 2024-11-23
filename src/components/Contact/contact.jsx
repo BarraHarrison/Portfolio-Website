@@ -56,19 +56,19 @@ const Contact = () => {
                     <button className="submitButton" type='submit' value='Send'>Submit</button>
                     <div className="links">
                         {/* GitHub Icon */}
-                        <a href="https://github.com" target="_blank" rel="noopener noreferrer">
+                        <a href="https://github.com/BarraHarrison" target="_blank" rel="noopener noreferrer">
                             <FontAwesomeIcon icon={faGithub} className="linkIcon" />
                         </a>
                         {/* LinkedIn Icon */}
-                        <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer">
+                        <a href="https://www.linkedin.com/in/barraharrison20091997/" target="_blank" rel="noopener noreferrer">
                             <FontAwesomeIcon icon={faLinkedin} className="linkIcon" />
                         </a>
                         {/* Instagram Icon */}
-                        <a href="https://instagram.com" target="_blank" rel="noopener noreferrer">
+                        <a href="https://www.instagram.com/barra_harrison/" target="_blank" rel="noopener noreferrer">
                             <FontAwesomeIcon icon={faInstagram} className="linkIcon" />
                         </a>
-                        {/* Twitter Icon */}
-                        <a href="https://twitter.com" target="_blank" rel="noopener noreferrer">
+                        {/* Twitter (X) Icon */}
+                        <a href="https://x.com/Barracuda7991" target="_blank" rel="noopener noreferrer">
                             <FontAwesomeIcon icon={faTwitter} className="linkIcon" />
                         </a>
                     </div>
